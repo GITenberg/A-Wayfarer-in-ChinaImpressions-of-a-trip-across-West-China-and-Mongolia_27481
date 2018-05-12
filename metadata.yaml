@@ -1,0 +1,28 @@
+_repo: A-Wayfarer-in-ChinaImpressions-of-a-trip-across-West-China-and-Mongolia_27481
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kendall, Elizabeth Kimball
+    gutenberg_agent_id: '32712'
+    url: http://www.gutenberg.org/2009/agents/32712
+description: ''
+gutenberg_issued: '2008-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27481'
+  lccn: '13001968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Mongolia -- Description and travel'
+title: 'A Wayfarer in China
+
+  Impressions of a trip across West China and Mongolia'
+url: http://www.gutenberg.org/ebooks/27481
